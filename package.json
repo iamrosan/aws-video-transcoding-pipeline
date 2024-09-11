@@ -1,0 +1,14 @@
+{
+  "name": "video-consumer",
+  "version": "1.0.0",
+  "description": "AWS video transcoding pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.649.0"
+  }
+}
